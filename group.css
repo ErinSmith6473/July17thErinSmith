@@ -3,4 +3,18 @@ h1 {color:turquoise;}
 
 body{color:rgb(122, 67, 224);}
 
-body {background-color: orange;}
+body {background-color: rgba(255, 0, 157, 0.507);}
+
+.bodycopy
+{color:white;
+font-family: cursive;}
+.Shoe
+{color:rgb(72, 255, 0);
+font-size: 80px;
+font-family:serif;}
+.can
+{color:red;}
+.example{
+    background-color: black;
+    color:bisque;
+    width:100%;}
